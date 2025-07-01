@@ -1,0 +1,588 @@
+<?xml version='1.0' encoding='utf-8'?>
+<order version="0.0.5" sversion="0.2.4"><pages><page page_id="1">
+      <page_file_name text="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" editable="False" />
+      <page_dpi text="300" editable="False" />
+      <page_width text="2953" editable="False" />
+      <page_height text="3300" editable="False" />
+      <page_seq_number text="1" editable="False" />
+      <color_depth text="256" editable="False" />
+      <page_quality text="" editable="False" />
+      <page_complexity text="" editable="False" />
+      <display_height text="3300" editable="False" />
+      <display_width text="2953" editable="False" />
+      <process_info text="DPGN0001" editable="False" />
+    </page>
+  </pages><content_meta><meta id="1" name="BuyerName" sx0="" sx1="" sy0="" sy1="" x0="456.0" y0="832.0" x1="567.0" y1="858.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="Buyer Name" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>MARAL</value>
+        <extracted>MARAL</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="2" name="DeliveryAddress" sx0="" sx1="" sy0="" sy1="" x0="447.0" y0="664.0" x1="927.0" y1="710.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="Delivery Address" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>STANDARD CHARTERED BANK .</value>
+        <extracted>STANDARD CHARTERED BANK .</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="3" name="PONumber" sx0="" sx1="" sy0="" sy1="" x0="2404.0" y0="697.0" x1="2758.0" y1="736.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="PO Number" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>4502327862/4502327870</value>
+        <extracted>4502327862/4502327870</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="4" name="PODate" sx0="" sx1="" sy0="" sy1="" x0="2409.0" y0="758.0" x1="2523.0" y1="799.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="PO Date" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>12/6/24</value>
+        <extracted>12/6/24</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="5" name="PODueDate" sx0="" sx1="" sy0="" sy1="" x0="2405.0" y0="621.0" x1="2541.0" y1="663.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="PO Due Date" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>09-12-24</value>
+        <extracted>09-12-24</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="6" name="UOM" sx0="" sx1="" sy0="" sy1="" x0="1690.0" y0="1164.0" x1="1731.0" y1="1189.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="UOM" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>YD</value>
+        <extracted>YD</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="7" name="Currency" sx0="" sx1="" sy0="" sy1="" x0="2296.0" y0="1165.0" x1="2356.0" y1="1191.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="Currency" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>USD</value>
+        <extracted>USD</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="8" name="Currency" sx0="" sx1="" sy0="" sy1="" x0="1956.0" y0="1165.0" x1="2017.0" y1="1191.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="Currency" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>USD</value>
+        <extracted>USD</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="9" name="Currency" sx0="" sx1="" sy0="" sy1="" x0="2296.0" y0="1165.0" x1="2356.0" y1="1191.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="Currency" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>USD</value>
+        <extracted>USD</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="10" name="Currency" sx0="" sx1="" sy0="" sy1="" x0="1956.0" y0="1165.0" x1="2017.0" y1="1191.0" ismultipart="False" visible="True" editable="True" verified="True" display_name="Currency" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>USD</value>
+        <extracted>USD</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="11" name="BuyerAddress" sx0="" sx1="" sy0="" sy1="" x0="472.0" y0="541.0" x1="998.0" y1="584.0" ismultipart="False" visible="True" editable="True" verified="False" display_name="Buyer Address" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>MAS INTIMATES KENYA EPZ LIMITED</value>
+        <extracted>MAS INTIMATES KENYA EPZ LIMITED</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="12" name="BuyerAddress" sx0="" sx1="" sy0="" sy1="" x0="442.0" y0="822.0" x1="967.0" y1="990.0" ismultipart="False" visible="True" editable="True" verified="False" display_name="Buyer Address" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>MARAL OVERSEAS LIMITED Bhilwara Towers. A-12  Sector -1 Noida â 201 301 UPIndia Tel.  +91-120-4390300 EPABX</value>
+        <extracted>MARAL OVERSEAS LIMITED Bhilwara Towers. A-12  Sector -1 Noida â 201 301 UPIndia Tel.  +91-120-4390300 EPABX</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="13" name="PhoneNumber" sx0="" sx1="" sy0="" sy1="" x0="551.0" y0="954.0" x1="972.0" y1="998.0" ismultipart="False" visible="True" editable="True" verified="False" display_name="Phone Number" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>+91-120-4390300 EPABX</value>
+        <extracted>+91-120-4390300 EPABX</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="14" name="PhoneNumber" sx0="" sx1="" sy0="" sy1="" x0="242.0" y0="2927.0" x1="483.0" y1="2964.0" ismultipart="False" visible="True" editable="True" verified="False" display_name="Phone Number" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>+91-120-4390300</value>
+        <extracted>+91-120-4390300</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="15" name="PhoneNumber" sx0="" sx1="" sy0="" sy1="" x0="2278.0" y0="3014.0" x1="2697.0" y1="3059.0" ismultipart="False" visible="True" editable="True" verified="False" display_name="Phone Number" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>+91-07285-265401-265405</value>
+        <extracted>+91-07285-265401-265405</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+    <meta id="16" name="GSTNumber" sx0="" sx1="" sy0="" sy1="" x0="153.0" y0="2838.0" x1="668.0" y1="3040.0" ismultipart="False" visible="True" editable="True" verified="False" display_name="GSTNumber" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+      <key />
+      <text>
+        <value>Bhilwara Towers A-12 Sector - 1 Noida - 201 301 NCR-Delhi India Tel +91-120-4390300 Website.www.maraloverseas.cor CIN No. L17124NP1989PLC008255</value>
+        <extracted>Bhilwara Towers A-12 Sector - 1 Noida - 201 301 NCR-Delhi India Tel +91-120-4390300 Website.www.maraloverseas.cor CIN No. L17124NP1989PLC008255</extracted>
+        <suggestion id="1" confidence="" />
+        <suggestion id="2" confidence="" />
+        <suggestion id="3" confidence="" />
+      </text>
+    </meta>
+  </content_meta><line_items><line_item id="1">
+      <combo_meta>
+        <meta id="1" name="Others" type="" sx0="" sx1="" sy0="" sy1="" x0="452.0" y0="541.0" x1="1605.0" y1="623.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" display_name="Others" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+          <key />
+          <text>
+            <value>MAS INTIMATES KENYA EPZ LIMITED PO BOX 1409-00606 ATHI RIVER EXPORT PROCESSING ZONENAIROBI KENYA</value>
+            <extracted>MAS INTIMATES KENYA EPZ LIMITED PO BOX 1409-00606 ATHI RIVER EXPORT PROCESSING ZONENAIROBI KENYA</extracted>
+            <suggestion id="1" confidence="" />
+            <suggestion id="2" confidence="" />
+            <suggestion id="3" confidence="" />
+          </text>
+        </meta>
+        <meta id="2" name="Others" type="" sx0="" sx1="" sy0="" sy1="" x0="259.0" y0="2964.0" x1="628.0" y1="3002.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" display_name="Others" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+          <key />
+          <text>
+            <value>Website.www.maraloverseas.cor</value>
+            <extracted>Website.www.maraloverseas.cor</extracted>
+            <suggestion id="1" confidence="" />
+            <suggestion id="2" confidence="" />
+            <suggestion id="3" confidence="" />
+          </text>
+        </meta>
+        <meta id="3" name="Others" type="" sx0="" sx1="" sy0="" sy1="" x0="288.0" y0="3001.0" x1="653.0" y1="3039.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" display_name="Others" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+          <key />
+          <text>
+            <value>L17124NP1989PLC008255</value>
+            <extracted>L17124NP1989PLC008255</extracted>
+            <suggestion id="1" confidence="" />
+            <suggestion id="2" confidence="" />
+            <suggestion id="3" confidence="" />
+          </text>
+        </meta>
+        <meta id="4" name="Others" type="" sx0="" sx1="" sy0="" sy1="" x0="2408.0" y0="544.0" x1="2625.0" y1="587.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" display_name="Others" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+          <key />
+          <text>
+            <value>PEB24-000371</value>
+            <extracted>PEB24-000371</extracted>
+            <suggestion id="1" confidence="" />
+            <suggestion id="2" confidence="" />
+            <suggestion id="3" confidence="" />
+          </text>
+        </meta>
+        <meta id="5" name="Others" type="" sx0="" sx1="" sy0="" sy1="" x0="2157.0" y0="2859.0" x1="2742.0" y1="3046.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" display_name="Others" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001">
+          <key />
+          <text>
+            <value>Regd. Office &amp; Works Maral Sarovar V.&amp; P.O.Khalbujurg. Tehsil Khasrawad Khargone - 451660 Madhya Pradesh India Phone +91-07285-265401-265405</value>
+            <extracted>Regd. Office &amp; Works Maral Sarovar V.&amp; P.O.Khalbujurg. Tehsil Khasrawad Khargone - 451660 Madhya Pradesh India Phone +91-07285-265401-265405</extracted>
+            <suggestion id="1" confidence="" />
+            <suggestion id="2" confidence="" />
+            <suggestion id="3" confidence="" />
+          </text>
+        </meta>
+      </combo_meta>
+      <column_headers id="1">
+        <column cid="1" name="LineNumber" sx0="165.0" sx1="254.0" sy0="1134.0" sy1="1159.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Line Number">
+          <key>Sr. No.</key>
+        </column>
+        <column cid="2" name="ProductDescription" sx0="644.0" sx1="852.0" sy0="1135.0" sy1="1161.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Product Description">
+          <key>Item Description</key>
+        </column>
+        <column cid="3" name="HSNCode" sx0="1335.0" sx1="1475.0" sy0="1133.0" sy1="1160.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="HSN Code">
+          <key>HSN Code</key>
+        </column>
+        <column cid="4" name="Others" sx0="1673.0" sx1="1721.0" sy0="1104.0" sy1="1130.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="False" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+          <key>Qtv</key>
+        </column>
+        <column cid="5" name="Others" sx0="1690.0" sx1="1731.0" sy0="1164.0" sy1="1189.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+          <key>YD</key>
+        </column>
+        <column cid="6" name="UnitPrice" sx0="1915.0" sx1="2061.0" sy0="1104.0" sy1="1130.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="False" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Unit Price">
+          <key>Basic Price</key>
+        </column>
+        <column cid="7" name="Others" sx0="1956.0" sx1="2017.0" sy0="1165.0" sy1="1191.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+          <key>USD</key>
+        </column>
+        <column cid="8" name="TotalPrice" sx0="2275.0" sx1="2378.0" sy0="1105.0" sy1="1131.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="False" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Total Price">
+          <key>Amount</key>
+        </column>
+        <column cid="9" name="Others" sx0="2296.0" sx1="2356.0" sy0="1165.0" sy1="1191.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+          <key>USD</key>
+        </column>
+        <column cid="10" name="Others" sx0="2581.0" sx1="2803.0" sy0="1108.0" sy1="1141.0" x0="" x1="" y0="" y1="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+          <key>Shipment Date</key>
+        </column>
+      </column_headers>
+      <records>
+        <record id="1" recordtype="">
+          <cell cid="1" name="LineNumber" x0="138.0" x1="247.0" y0="1228.0" y1="1260.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Line Number">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="2" name="ProductDescription" x0="274.0" x1="833.0" y0="1230.0" y1="1261.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Product Description">
+            <text>
+              <value>100% Compact Cotton SJ Stripe Regenagri</value>
+              <extracted>100% Compact Cotton SJ Stripe Regenagri</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="3" name="HSNCode" x0="1343.0" x1="1474.0" y0="1228.0" y1="1255.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="HSN Code">
+            <text>
+              <value>60062300</value>
+              <extracted>60062300</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="5" name="Others" x0="1655.0" x1="1770.0" y0="1230.0" y1="1258.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>6012.00</value>
+              <extracted>6012.00</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="7" name="Others" x0="1942.0" x1="2031.0" y0="1231.0" y1="1255.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>2.6500</value>
+              <extracted>2.6500</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="9" name="Others" x0="2261.0" x1="2389.0" y0="1229.0" y1="1258.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>15931.80</value>
+              <extracted>15931.80</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="10" name="Others" x0="2637.0" x1="2748.0" y0="1230.0" y1="1256.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>12/16/24</value>
+              <extracted>12/16/24</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+        </record>
+        <record id="2" recordtype="">
+          <cell cid="1" name="LineNumber" x0="204.0" x1="215.0" y0="1260.0" y1="1284.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Line Number">
+            <text>
+              <value>1</value>
+              <extracted>1</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="2" name="ProductDescription" x0="272.0" x1="865.0" y0="1266.0" y1="1555.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Product Description">
+            <text>
+              <value>Y/D KNITTED FABRIC GSM-175 ENZYME &amp; LIQUID FINISH+Sanforize N SHADE - TOFU /DARK SAPPHRE ETE/CUTTABLE WIDTH - 163/157 PO â 4502327862 CUSTOMER REFERENCE NO - 1000220769 KNT0013255</value>
+              <extracted>Y/D KNITTED FABRIC GSM-175 ENZYME &amp; LIQUID FINISH+Sanforize N SHADE - TOFU /DARK SAPPHRE ETE/CUTTABLE WIDTH - 163/157 PO â 4502327862 CUSTOMER REFERENCE NO - 1000220769 KNT0013255</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="3" name="HSNCode" x0="1169.0" x1="1565.0" y0="1260.0" y1="1592.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="HSN Code">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="5" name="Others" x0="1565.0" x1="1857.0" y0="1260.0" y1="1592.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="7" name="Others" x0="1857.0" x1="2147.0" y0="1260.0" y1="1592.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="9" name="Others" x0="2147.0" x1="2512.0" y0="1260.0" y1="1592.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="10" name="Others" x0="2512.0" x1="2894.0" y0="1260.0" y1="1592.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+        </record>
+        <record id="3" recordtype="">
+          <cell cid="1" name="LineNumber" x0="201.0" x1="222.0" y0="1721.0" y1="1747.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Line Number">
+            <text>
+              <value>2</value>
+              <extracted>2</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="2" name="ProductDescription" x0="272.0" x1="996.0" y0="1630.0" y1="1977.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Product Description">
+            <text>
+              <value>Tolerance 2.00 / 2.00 97% Regenagri Compact Cotton 3% spandex full feeder FK Collar Full Feeder Dyeable Spandex Size - 21X3.625 Size 2XL SHADE TOFU 11-4801 TCX ENZYME &amp; LIQUID Finish PO no -4502327870 MC- 2001187843 KNT0002987</value>
+              <extracted>Tolerance 2.00 / 2.00 97% Regenagri Compact Cotton 3% spandex full feeder FK Collar Full Feeder Dyeable Spandex Size - 21X3.625 Size 2XL SHADE TOFU 11-4801 TCX ENZYME &amp; LIQUID Finish PO no -4502327870 MC- 2001187843 KNT0002987</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="3" name="HSNCode" x0="1342.0" x1="1475.0" y0="1690.0" y1="1716.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="HSN Code">
+            <text>
+              <value>60039000</value>
+              <extracted>60039000</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="5" name="Others" x0="1669.0" x1="1759.0" y0="1690.0" y1="1715.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>381.00</value>
+              <extracted>381.00</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="7" name="Others" x0="1942.0" x1="2030.0" y0="1690.0" y1="1715.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>0.5000</value>
+              <extracted>0.5000</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="9" name="Others" x0="2282.0" x1="2370.0" y0="1690.0" y1="1715.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>190.50</value>
+              <extracted>190.50</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="10" name="Others" x0="2636.0" x1="2750.0" y0="1688.0" y1="1715.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>12/16/24</value>
+              <extracted>12/16/24</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+        </record>
+        <record id="4" recordtype="">
+          <cell cid="1" name="LineNumber" x0="201.0" x1="221.0" y0="2143.0" y1="2170.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Line Number">
+            <text>
+              <value>3</value>
+              <extracted>3</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="2" name="ProductDescription" x0="272.0" x1="997.0" y0="2051.0" y1="2565.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Product Description">
+            <text>
+              <value>Tolerance - 2.00 / 2.00 97% Regenagri Compact Cotton 3% spandex full feeder FK Collar Full Feeder Dyeable Spandex Size - 20X3.625  Size XL SHADE TOFU 11-4801 TCX ENZYME &amp; LIQUID Finish PO no -4502327870 MC- 2001 187843 KNT0002987 Tolerance - 2.00 / 2.00 97% Regenagri Compact Cotton 3% spandex full feeder</value>
+              <extracted>Tolerance - 2.00 / 2.00 97% Regenagri Compact Cotton 3% spandex full feeder FK Collar Full Feeder Dyeable Spandex Size - 20X3.625  Size XL SHADE TOFU 11-4801 TCX ENZYME &amp; LIQUID Finish PO no -4502327870 MC- 2001 187843 KNT0002987 Tolerance - 2.00 / 2.00 97% Regenagri Compact Cotton 3% spandex full feeder</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="3" name="HSNCode" x0="1341.0" x1="1475.0" y0="2113.0" y1="2560.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="HSN Code">
+            <text>
+              <value>60039000 60039000</value>
+              <extracted>60039000 60039000</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="5" name="Others" x0="1659.0" x1="1772.0" y0="2113.0" y1="2564.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>570.00 1107.00</value>
+              <extracted>570.00 1107.00</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="7" name="Others" x0="1942.0" x1="2033.0" y0="2113.0" y1="2561.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>0.5000 0.5000</value>
+              <extracted>0.5000 0.5000</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="9" name="Others" x0="2278.0" x1="2370.0" y0="2112.0" y1="2562.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>285.00 553.50</value>
+              <extracted>285.00 553.50</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="10" name="Others" x0="2636.0" x1="2749.0" y0="2112.0" y1="2562.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value>12/16/24 12/16/24</value>
+              <extracted>12/16/24 12/16/24</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+        </record>
+        <record id="5" recordtype="">
+          <cell cid="1" name="LineNumber" x0="201.0" x1="221.0" y0="2564.0" y1="2591.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Line Number">
+            <text>
+              <value>4</value>
+              <extracted>4</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="2" name="ProductDescription" x0="272.0" x1="788.0" y0="2572.0" y1="2785.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Product Description">
+            <text>
+              <value>FK Collar Full Feeder Dyeable Spandex Size - 19X3.625 Size L SHADE TOFU 11-4801 TCX ENZYME &amp; LIQUID Finish PO no -4502327870 MC- 2001 187843</value>
+              <extracted>FK Collar Full Feeder Dyeable Spandex Size - 19X3.625 Size L SHADE TOFU 11-4801 TCX ENZYME &amp; LIQUID Finish PO no -4502327870 MC- 2001 187843</extracted>
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="3" name="HSNCode" x0="1169.0" x1="1565.0" y0="2564.0" y1="2785.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="HSN Code">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="5" name="Others" x0="1565.0" x1="1857.0" y0="2564.0" y1="2785.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="7" name="Others" x0="1857.0" x1="2147.0" y0="2564.0" y1="2785.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="9" name="Others" x0="2147.0" x1="2512.0" y0="2564.0" y1="2785.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+          <cell cid="10" name="Others" x0="2512.0" x1="2894.0" y0="2564.0" y1="2785.0" currency_type="" ismultipart="False" visible="True" editable="True" verified="False" pagename="20250428090612818249_d824ce7c-94e1-45f6-9559-114d83babc4e_0001" display_name="Others">
+            <text>
+              <value />
+              <extracted />
+              <suggestion id="1" confidence="" />
+              <suggestion id="2" confidence="" />
+              <suggestion id="3" confidence="" />
+            </text>
+          </cell>
+        </record>
+      </records>
+    </line_item>
+  </line_items></order>
